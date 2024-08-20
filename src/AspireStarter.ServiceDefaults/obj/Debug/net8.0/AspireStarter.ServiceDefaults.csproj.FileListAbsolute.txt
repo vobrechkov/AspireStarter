@@ -1,0 +1,12 @@
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/bin/Debug/net8.0/AspireStarter.ServiceDefaults.deps.json
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/bin/Debug/net8.0/AspireStarter.ServiceDefaults.dll
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/bin/Debug/net8.0/AspireStarter.ServiceDefaults.pdb
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.AssemblyInfo.cs
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.dll
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/refint/AspireStarter.ServiceDefaults.dll
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/AspireStarter.ServiceDefaults.pdb
+/Users/vesselin/Source/Projects/AspireStarter/AspireStarter.ServiceDefaults/obj/Debug/net8.0/ref/AspireStarter.ServiceDefaults.dll

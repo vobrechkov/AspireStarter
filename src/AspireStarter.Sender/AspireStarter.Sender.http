@@ -1,0 +1,6 @@
+@AspireStarter.Sender_HostAddress = http://localhost:5263
+
+GET {{AspireStarter.Sender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

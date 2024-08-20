@@ -1,0 +1,50 @@
+﻿@page "/weather"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject SmsClient SmsClient;
+
+<PageTitle>Weather</PageTitle>
+
+<h1>Weather</h1>
+
+<p>This component demonstrates showing data loaded from a backend API service.</p>
+
+@if (results == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sent</th>
+                <th>From</th>
+                <th>To</th>
+                <th>Body</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var result in results)
+            {
+                <tr>
+                    <td>@result.SentAt.ToShortDateString()</td>
+                    <td>@result.From</td>
+                    <td>@result.To</td>
+                    <td>@result.Body</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private SmsResult[] results;
+
+    protected override async Task OnInitializedAsync()
+    {
+        results = await SmsClient.CreateMessagesAsync("Welcome", ["+140785258525"]);
+    }
+}

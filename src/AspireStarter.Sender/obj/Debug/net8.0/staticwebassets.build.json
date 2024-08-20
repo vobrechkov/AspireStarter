@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bYnyR3YgyiMKf1yhLTI2g2Ol6nXIHKhUSETMkyXJHgU=",
+  "Source": "AspireStarter.Sender",
+  "BasePath": "_content/AspireStarter.Sender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
